@@ -52,7 +52,7 @@ const First = () => {
                 <div>React</div>
                 <div>Node</div>
                 <div>Express</div>
-                <div>Mongo DB</div>
+                <div>MongoDB</div>
               </div>
               <div className="icons flex mt-4">
                 <FaFacebookF className="fab" />
